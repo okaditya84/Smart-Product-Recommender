@@ -82,3 +82,9 @@ for idx, rec in enumerate(recommendations, 1):
 - product_recommendation.py: Core recommendation logic and data processing.
 - requirements.txt: List of dependencies required to run the project.
 - productRecommendation_purchaseHistory.ipynb: Jupyter Notebook for interactive analysis and testing.
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
