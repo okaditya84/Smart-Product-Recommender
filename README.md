@@ -54,7 +54,7 @@ SmartProductRecommender is a robust recommendation system that leverages purchas
     },
     ...
   ]
-}
+
     ```
 
 ## Example usage in juypyter notebook
