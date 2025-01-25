@@ -53,7 +53,7 @@ SmartProductRecommender is a robust recommendation system that leverages purchas
       "confidence_score": 0.90
     },
     ...
-  ]
+  ]}
 
     ```
 
